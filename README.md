@@ -13,3 +13,4 @@ Flexibility. Labels can be 1″ to 6″ at 152, 203, 300 or 600 dpi, in any orie
 Printing. Labels are sent as native ZPL, so text and barcodes stay sharp. They go directly to a Zebra printer by IP address, or through PrintNode, or through the browser’s print dialog. An optional Labelary preview shows the ZPL as the printer will render it.
 
 Import and export. Designs are saved in your browser. You can export a single label, your whole library, or your library plus your printer setup as JSON, and import them on another machine. Your PrintNode API key is never included in an export.
+<img width="895" height="678" alt="image" src="https://github.com/user-attachments/assets/4f9a445c-493f-4cd5-90e3-e4805db2b93d" />
